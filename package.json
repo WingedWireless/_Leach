@@ -9,6 +9,10 @@
   "author": "Tayo Shonibare",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.13.3"
+    "express": "^4.13.3",
+    "google-auth-library": "^0.9.7",
+    "google-oauth2": "^0.1.0",
+    "googleapis": "^2.1.6",
+    "pusher": "^1.0.6"
   }
 }

@@ -1,0 +1,20 @@
+My acc//{"installed":
+{"client_id":"214866971078-mnq8eb5tvkntr4i2cfds5qc2t4359pbr.apps.googleusercontent.com",
+"auth_uri":"https://accounts.google.com/o/oauth2/auth",
+"token_uri":"https://accounts.google.com/o/oauth2/token",
+"auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs",
+"client_secret":"xgun-VtnoNAsx3ogIV4DUlML",
+"redirect_uris":["urn:ietf:wg:oauth:2.0:oob",
+"http://localhost"]}}
+
+
+
+//Web Application Secrete format
+{"web":
+{"client_id":"214866971078-ug4cpvd3mjbpq73g2f25ivthgqt2b8hu.apps.googleusercontent.com",
+"auth_uri":"https://accounts.google.com/o/oauth2/auth",
+"token_uri":"https://accounts.google.com/o/oauth2/token",
+"auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs",
+"client_secret":"avPRv7hhVdJuBu0Sd7OmG9kl",
+"javascript_origins":["http://localhost:94",
+"http://localhost:194"]}}
